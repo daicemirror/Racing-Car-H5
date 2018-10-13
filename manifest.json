@@ -43,9 +43,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "./index.html?utm_source=homescreen",
   "display": "standalone",
   "theme_color": "#a80694",
   "background_color": "#dedede",
-  ​​"orientation": "landscape"
+  "orientation": "landscape"
 }
